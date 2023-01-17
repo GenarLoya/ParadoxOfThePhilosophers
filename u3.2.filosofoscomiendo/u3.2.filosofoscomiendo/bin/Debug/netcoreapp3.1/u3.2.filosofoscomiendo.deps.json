@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "u3.2.filosofoscomiendo/1.0.0": {
+        "runtime": {
+          "u3.2.filosofoscomiendo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "u3.2.filosofoscomiendo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

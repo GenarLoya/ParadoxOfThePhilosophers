@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VMBASnUS6W36y8dk/3DRZMzQuNYu4PwSztIkdRO+RkNIIi4ZqcN+QTkkzXKq3yQl0Bt4cOLl+zN2osrG3ci3GQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACER\\Desktop\\Clases\\Clases 4to semestre\\Topicos av. de programacion\\C#\\u3.2.filosofoscomiendo\\u3.2.filosofoscomiendo\\u3.2.filosofoscomiendo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
